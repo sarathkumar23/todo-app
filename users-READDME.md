@@ -5,6 +5,7 @@ Todo-Users
 Users service is responsible for finding the users by username and password
 
        # apt update
+       # apt install maven
        # apt-get install openjdk-8-jdk
        # java -version
 Now go and fetch git code
